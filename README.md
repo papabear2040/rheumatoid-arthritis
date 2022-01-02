@@ -1,2 +1,2 @@
 # learningtocode-html, css, js.
-document.beginingTheJavaScriptModule();
+document.beginingTheJavaScriptModule('week1');
