@@ -1,2 +1,2 @@
 # learningtocode-html, css, js.
-beginingTheJavaScriptModule().
+document.beginingTheJavaScriptModule();
